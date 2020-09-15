@@ -1,6 +1,6 @@
 languageCode = "en-us"
-title = "Vitaliy Ryepnoy - Software Engineer"
-baseurl = "https://vvitr.com"
+title = "𝗩𝗶𝘁𝗮𝗹𝗶𝘆 𝗥𝘆𝗲𝗽𝗻𝗼𝘆 - 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿"
+baseurl = "https://vitr.com.au"
 theme = "prologue"
 #https://discourse.gohugo.io/t/issue-when-baseurl-have-subdirectory/4088/7
 RelativeURLs=true
@@ -10,7 +10,7 @@ CanonifyURLs=true
   name = "Vitaliy Ryepnoy"
   description = "Software Engineer"
   copyright = "2016-2020 Vitaliy Ryepnoy ABN 29 901 015 152"
-  email = "vit@vvitr.com"
+  email = "vit@vitr.com.au"
 
 [[params.social]]
   medium = "twitter"
